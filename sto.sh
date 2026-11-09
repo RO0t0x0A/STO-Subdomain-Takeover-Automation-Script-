@@ -32,7 +32,7 @@ cat << 'EOF'
 EOF
 echo -e "${RESET}"
 echo -e "${DIM}${W}        Subdomain Takeover Script 🎯${RESET}"
-echo -e "${DIM}        by RO0t0x01 | Sali 3la El nabi Mohammed${RESET}"
+echo -e "${DIM}        by Someone | Sali 3la El nabi Mohammed${RESET}"
 echo ""
 echo -e "${DIM}${R}  ────────────────────────────────────────${RESET}"
 echo ""
